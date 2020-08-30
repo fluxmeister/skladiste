@@ -6,9 +6,9 @@ public class Sanduk extends Proizvod {
 	
 	public Sanduk(double price, double a, double b, double c) {
 		super(price);
-		this.a=a;
-		this.b=b;
-		this.c=c;
+		this.a = a;
+		this.b = b;
+		this.c = c;
 	}
 	
 	@Override

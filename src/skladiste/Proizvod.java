@@ -2,7 +2,7 @@ package skladiste;
 
 public abstract class Proizvod {
 
-	private static int count;
+	private static int count = 0;
 	private final int ID = count++;
 	private double cena;
 	
